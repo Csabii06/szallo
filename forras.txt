@@ -76,3 +76,227 @@ Kékhegy Szálló
 Fő űt 1.
 Telefon: +36 55 555-5555
 Email: kapcsolat@kekhegyszallo.hu
+
+
+
+
+<section id="section1">
+            <div class="div1">
+                <p>
+                    A hófödte Mesehegy tetjén fekszik a Kékhegy Szálló****, mely már 1870 óta várja vendégeit. <br><br>
+
+                    A szállót Thomas Mann híres regénye, a Varázshegyből is ismerős Schatzalp Davos hotel tervei ihlették. Elnevezése a hegyoldal szikláit jellemzően színező vulkanikus achát foltokra utal. <br><br>
+
+                    A szálló széles körű szolgáltatásokkal várja minden idényben a pihenni, sportolni vágyókat, a téli sportok szerelmeseitől a nyári hőség elől a hegyvidékbe kirándulni vágyókig. <br><br>
+
+                    Vendégeink tágas összkomfortos szobákat, széles választékkal rendelkező éttermet, szauna- és medence részleget, rendszeres esti programokat és kedvezményes sportkölcsönzési lehetőségeket találnak nálunk. <br><br>
+
+                    60 fős személyzetünk az év minden napján várja a vendégeket!
+                </p>
+                <img src="kepek/kekhegy_szallo.png" alt="A Kékhegy Szálló">
+            </div>
+            <div class="div2">
+                <aside id="left">
+                    <img src="kepek/hotel_haloszoba_700_300.jpg" alt=""><br><br>
+                    <img src="kepek/hotel_etterem_700_300.jpg" alt=""><br><br>
+                    <img src="kepek/sifelszereles_700_300.jpg" alt=""><br><br>
+                    <img src="kepek/hotel_kinti_700_300.jpg" alt="">
+                </aside>
+                <aside id="right">
+                    <h2>2-4-6 személyes szobák</h2>
+                    <p>Nálunk minden kombinációt megtalál, érkezzenek akár romantikus kirándulásra vagy céges üdülésre.</p>
+                    <ul>
+                        <li>4 személyes családi lakosztályok (közös hálóval, nappalival): 12 darab</li>
+                        <li>6 személyes lakosztályok (3 hálóval): 12 darab</li>
+                    </ul><br>
+                    <button type="button">Tovább az árlistára</button>
+                    <br><br>
+
+                    <h2>Étterem</h2>
+                    <p><span>Kovács Sebastian</span> mesterszakácsunk gondoskodik az a'lacarte éttermünk kínálatóról, a hotel étterem részlegén.</p>
+                    <p>Konferenciák, rendezvények lebonyolítását is vállaljuk!</p>
+                    <button type="button">Étlap megjelenítése</button>
+                    <br><br>
+
+                    <h2>Téli sporteszköz kölcsönzés</h2>
+                    <p>A hegyvidéken található számos sípályához biztosítunk kedvezményes áron sífelszerelést.</p>
+                    <p>Amennyiben nálunk foglal, akár <span>50%-os kedvezményre is jogosult lehet</span> a bérlés árából! A részletekért érdeklődjön a recepciósunknál.</p><br>
+                    <button type="button">Tovább az árlistára</button>
+                    <br><br>
+
+                    <h2>Túravezetés</h2>
+                    <p>A Kékhegy még a Mátránál is magasabb, 1337 méter magasan fekvő tája és bizonyítottan <br> különlegesen jóminőségű hegyi levegője évtizedek óta méltán híres turistaparadicsom az egész évben. Vezetett gyalogtúráink egész évben rendelkezésre állnak.</p>
+                    <button type="button">Tovább az árlistára</button>
+                </aside>
+            </div>
+        </section><br>
+        <section id="section2">
+            <div class="opciok">
+                <h4>Kétfős szoba</h4>
+                <h2>12.000 Ft/nap</h2>
+                <hr>
+                <p>
+                    2 fő részére <br><br>
+                    Franciaágy <br><br>
+                    Ingyen wifi <br><br>
+                    Igény szerint reggeli <br><br>
+                    Igény szerinti teljes étkezés <br><br>
+                    KábelTV <br><br>
+                    30% kedvezmény a sporteszköz kölcsönzésből <br><br>
+                </p>
+                <button type="button">Foglalás</button>
+            </div>
+
+            <div class="opciok">
+                <h4>Négyszemélyes lakosztály</h4>
+                <h2>20.000 Ft/nap</h2>
+                <hr>
+                <p>
+                    4 fő részére <br><br>
+                    2 külön bálószoba <br><br>
+                    Igény szerint francia- vagy külön ágyak <br><br>
+                    Igény szerint reggeli <br><br>
+                    Igény szerinti teljes étkezés <br><br>
+                    KábelTV <br><br>
+                    40% kedvezmény a sporteszköz kölcsönzésből <br><br>
+                </p>
+                <button>Foglalás</button>
+            </div>
+            <div class="opciok">
+                <h4>Hatszemélyes lakosztály</h4>
+                <h2>24.000 Ft/nap</h2>
+                <hr>
+                <p>
+                    6 fő részére <br><br>
+                    3 külön bálószoba <br><br>
+                    Igény szerint francia- vagy külön ágyak <br><br>
+                    Igény szerint reggeli <br><br>
+                    Igény szerinti teljes étkezés <br><br>
+                    KábelTV <br><br>
+                    50% kedvezmény a sporteszköz kölcsönzésből <br><br>
+                </p>
+                <button>Foglalás</button>
+            </div>
+        </section><br>
+
+        <section id="section3">
+            <form>
+                <legend>Kérdezzen tőlünk élőben!</legend><br>
+                <input type="text" placeholder="Kérjük, írja be kérdését ide!"><br><br>
+                <button type="submit">Kérdés beküldése</button>
+            </form>
+        </section><br>
+
+        <footer>
+            <p>
+                Kérdezzen tőlünk élőben! <br><br>
+                Legutóbbi kérdés: <br><br>
+                Kérjük, írja be kérdését ide! <br><br>
+                Kékhegy Szálló <br><br>
+                9999 Mucsaröcsöge <br><br>
+                Fő űt 1. <br><br>
+                Telefon: +36 55 555-5555 <br><br>
+                Email: kapcsolat@kekhegyszallo.hu <br><br>
+            </p>
+        </footer>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#section1 {
+    background-color: #B0B0B0;
+    border-radius: 10px;
+    border: 3px solid black;
+    padding: 20px 20px 20px;
+}
+#section1 .div1 {
+    display: flex;
+}
+#section1 .div1 img {
+    width: 30%;
+    border-radius: 10px;
+    border: 3px solid black;
+}
+#section1 .div2 {
+    display: flex;
+    padding-top: 50px;
+}
+#section1 .div2 #left img {
+    width: 90%;
+    border-radius: 10px;
+    border: 3px solid black;
+}
+#section1 #right button {
+    width: 350px;
+    height: 30px;
+    background-color: #464646;
+    color: white;
+    margin-left: 80px;
+}
+span {
+    font-weight: bold;
+}
+#section2 {
+    background-color: #464646;
+    border-radius: 10px;
+    border: 3px solid black;
+    display: flex;
+    padding: 50px 50px 50px;
+    justify-content: space-around;
+}
+.opciok {
+    background-color: #B0B0B0;
+    border: 3px solid black;
+    width: 300px;
+    padding: 20px 20px 20px;
+}
+.opciok button {
+    width: 300px;
+    height: 40px;
+    background-color: #464646;
+    color: white;
+    font-weight: bold;
+    font-size: large;
+}
+.opciok h2, h4 {
+    text-align: center;
+}
+#section3 {
+    background-color: #B0B0B0;
+    border-radius: 10px;
+    border: 3px solid black;
+    padding: 20px 20px 20px;
+}
+input {
+    height: 50px;
+    width: 300px;
+}
+form {
+    background-color: #464646;
+    width: 500px;
+    padding: 50px 50px 50px;
+    margin: auto;
+    border: 3px solid black;
+}
+legend {
+    color: white;
+}
+footer {
+    background-color: #464646;
+    color: white;
+    text-align: center;
+    padding: 10px 10px 10px;
+    border-radius: 10px;
+    border: 3px solid black;
+}
