@@ -116,3 +116,11 @@ form {
 legend {
     color: white;
 }
+footer {
+    background-color: #464646;
+    color: white;
+    text-align: center;
+    padding: 10px 10px 10px;
+    border-radius: 10px;
+    border: 3px solid black;
+}
