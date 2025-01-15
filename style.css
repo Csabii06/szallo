@@ -71,3 +71,28 @@ header p {
 span {
     font-weight: bold;
 }
+#section2 {
+    background-color: #464646;
+    border-radius: 10px;
+    border: 3px solid black;
+    display: flex;
+    padding: 50px 50px 50px;
+    justify-content: space-around;
+}
+.opciok {
+    background-color: #B0B0B0;
+    border: 3px solid black;
+    width: 300px;
+    padding: 20px 20px 20px;
+}
+.opciok button {
+    width: 300px;
+    height: 40px;
+    background-color: #464646;
+    color: white;
+    font-weight: bold;
+    font-size: large;
+}
+.opciok h2, h4 {
+    text-align: center;
+}
